@@ -28,3 +28,33 @@ C:\Users\plawson0476\source\repos\WebApplication1\WebApplication1\obj\Debug\netc
 C:\Users\plawson0476\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.dll
 C:\Users\plawson0476\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.pdb
 C:\Users\plawson0476\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.csproj.CopyComplete
+Z:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\C++ Index Site.deps.json
+Z:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\C++ Index Site.runtimeconfig.json
+Z:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\C++ Index Site.runtimeconfig.dev.json
+Z:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\C++ Index Site.dll
+Z:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\C++ Index Site.pdb
+Z:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\C++ Index Site.Views.dll
+Z:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\C++ Index Site.Views.pdb
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.csprojAssemblyReference.cache
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.csproj.CoreCompileInputs.cache
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.RazorAssemblyInfo.cache
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.RazorAssemblyInfo.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.AssemblyInfoInputs.cache
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.AssemblyInfo.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.TagHelpers.input.cache
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.TagHelpers.output.cache
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.RazorCoreGenerate.cache
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.RazorTargetAssemblyInfo.cache
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.RazorTargetAssemblyInfo.cs
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.Views.pdb
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.dll
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.pdb
+Z:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\C++ Index Site.csproj.CopyComplete
